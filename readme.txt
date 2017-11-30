@@ -5,5 +5,6 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 --no--ff in dev.
 git stash.
+add /usr/bin/env。
 
 
